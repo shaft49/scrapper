@@ -1,0 +1,5 @@
+requests
+lxml
+pandas
+beautifulsoup4
+selenium
